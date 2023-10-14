@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "aliasexample.py",
+      "setup": "",
+      "run": "python aliasexample.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "ecommerce.py",
+      "setup": "",
+      "run": "python ecommerce.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "fromexample.py",
+      "setup": "",
+      "run": "python fromexample.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "importexample.py",
+      "setup": "",
+      "run": "python importexample.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "testblogs.py",
+      "setup": "",
+      "run": "python testblogs.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
