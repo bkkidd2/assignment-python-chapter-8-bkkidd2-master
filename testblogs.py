@@ -5,7 +5,7 @@
 from blog import post
 from blog import likes
 
-# Run "python testblogs.py" to test this code. 
+# Run "python testblogs.py" to test this code.
 # IF you get an NameError, your import is incorrect
 # Code that simulates the posting and likes of a blog website
 # Do not modify the code below this line
@@ -18,4 +18,3 @@ likes.like_blog()
 likes.like_blog()
 likes.dislike_blog()
 likes.leader_board()
-
